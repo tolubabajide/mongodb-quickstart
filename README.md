@@ -8,6 +8,6 @@ Run this code with a MongoDB database that has sample code in order to output th
 export const uri = "<YOUR_MONGODB_CONNECTION_STRING>";
 ```
 
-2. Run `npm install`
+2. Run `npm install`.
 
-3. Run `npm start`
+3. Run `npm start`.
