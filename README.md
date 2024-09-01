@@ -5,6 +5,7 @@ Run this code with a MongoDB database that has sample code in order to output th
 1. Create a `secrets.js` file with the following format:
 
 ```js
+// Add your MongoDB connection string
 export const uri = "<YOUR_MONGODB_CONNECTION_STRING>";
 ```
 
